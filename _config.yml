@@ -6,19 +6,9 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          'The Jekyll Butler'
-description:      'Base theme for Jekyll themes by @mdo.'
-url:              http://getpoole.com
+title:            Fumie Go
+tagline:          '@fumiwei5'
+description:      '88年台湾国籍千葉生まれ千葉育ち東京在住'
+url:              http://fumiwei5.github.io
 
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-paginate:         1
-
-# Custom vars
-version:          1.0.0
-
-github:
-  repo:           https://github.com/poole/poole
+paginate:         5

@@ -13,25 +13,26 @@ title: Home
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
+    {% include social.html %}
     {{ post.content }}
+    {% include social.html %}
   </div>
   {% endfor %}
 </div>
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="/page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="/page{{paginator.next_page}}">古い記事</a>
   {% else %}
-    <span class="pagination-item older">Older</span>
+    <span class="pagination-item older">古い記事</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="/">Newer</a>
+      <a class="pagination-item newer" href="/">新しい記事</a>
     {% else %}
-      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="/page{{paginator.previous_page}}">新しい記事</a>
     {% endif %}
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+    <span class="pagination-item newer">新しい記事</span>
   {% endif %}
 </div>
