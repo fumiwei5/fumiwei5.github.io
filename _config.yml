@@ -9,6 +9,6 @@ permalink:        :title
 title:            Fumie Go
 tagline:          '@fumiwei5'
 description:      '88年台湾国籍千葉生まれ千葉育ち東京在住'
-url:              http://fumiwei5.github.io
+url:              "http://fumiwei5.github.io"
 
 paginate:         5
