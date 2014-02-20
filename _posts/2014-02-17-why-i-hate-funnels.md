@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WEBマーケティングモデルのたったひとつの大きな間違い / 「私が”ろうと”をキライなワケ」
+title: そんなマーケティングで大丈夫か? MailChimp CEOが語る「私がファネルをキライなワケ」
 ---
 
 元記事: [Why I hate funnels](http://tinyletter.com/ben/letters/why-i-hate-funnels)
