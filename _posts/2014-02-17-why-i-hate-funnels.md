@@ -1,10 +1,6 @@
 ---
 layout: post
-<<<<<<< HEAD
-title: WEBマーケティングモデルのたったひとつの大きな間違い / 「私が”ファネル”をキライなワケ」
-=======
 title: そんなマーケティングで大丈夫か? MailChimp CEOが語る「私がファネルをキライなワケ」
->>>>>>> fb71ee5246a5c3235dac88ffb6f7ccbc8b5fb6bc
 ---
 
 元記事: [Why I hate funnels](http://tinyletter.com/ben/letters/why-i-hate-funnels)
